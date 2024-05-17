@@ -34,3 +34,6 @@ These files should be created with these exact names.
 
 Returns success unless an invalid option is given.
 
+
+
+This is a collaborative project.
